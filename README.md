@@ -34,6 +34,7 @@ status, age, gender and more.
 
 ## Resources
 Resource 1: Stock Market Analysis - data base downloaded using yfinance
+
 Resource 2: Titanic Classification - https://www.kaggle.com/code/fatmakursun/titanic-classification-models/input?select=train.csv
 
 If you have any questions or need further assistance, please feel free to reach out to us at rohitagr2610@gmail.com.
