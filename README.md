@@ -18,14 +18,12 @@ seaborn
 
 ## Projects
 ### Project 1 - Stock Market Analysis.
-Project Directory: Stock_Market_Analysis/
 
 Take stock price of any company you
 want and predicts its price by using LSTM.
 Use only Jupyter notebook code.
 
 ### Project 2 - Titanic Classification
-Project Directory: Titanic_Classification/
 
 Make a system which tells whether the person will be
 save from sinking. What factors were
